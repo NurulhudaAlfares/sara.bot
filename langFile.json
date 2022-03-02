@@ -1,0 +1,262 @@
+{
+    "Welcome {{name}}": {
+        "ar": "مرحبا {{name}}, أهلاً و سهلاً بك.",
+        "en": "Hello {{name}}"
+    },
+    "Welcome": {
+        "ar": "مرحبا",
+        "en": "Hey!"
+    },
+    "AskName": {
+        "ar": "ما اسمك ؟",
+        "en": "What's your name?"
+    },
+    "I can help you to make appointment with the following main categories:": {
+        "ar": "حاضر! كل المعلومات الراهنة تجريبية فقط , لن نقوم بإجراء حجز حقيقي \n\n ما هو اختيارك من هذه الفئات؟",
+        "en": "Sure thing! Please notice that all data are currently for testing, no real appointment will be reserved \n\n Select first a category from these options:"
+    },
+    "subcategories {{category}}": {
+        "ar": "ما الاختصاص الذي يناسبك ضمن {{category}} ؟",
+        "en": "Which specialty are you looking for under {{category}} ?"
+    },
+    "Nothing": {
+        "ar": "عذرا لم أفهم، سأحاول بجهد أن أتعلم أكثر و أن أصبح أكثر ذكاءً قريباً جداً :)",
+        "en": "Sorry I did not understand, I will try to learn more and get more intelligent very soon :)"
+    },
+    "Doctor's List {{sp}}": {
+        "ar": "إليك قائمة الأطباء ضمن اختصاص {{sp}} :",
+        "en": "Here's a list of doctors in {{sp}} :"
+    },
+    "Provider's list {{pl}}": {
+        "ar": "هاهم خبراء واختصاصيو {{pl}} ",
+        "en": "These are the experts of {{pl}} "
+    },
+    "Time {{doc}}": {
+        "ar": "في أي وقت تحب أن تحجز موعدك مع {{doc}}؟ ",
+        "en": "Which time do you prefer for your appointment with {{doc}}"
+    },
+    "doctorName": {
+        "ar": "إن كنت تعرف اسم الطبيب الذي تودّ حجز الموعد لديه , زودني به , وإلا فاكتب 'لا ' ",
+        "en": "If you know the doctor's name please give it to me, otherwise type no !"
+    },
+    "rephonenumber": {
+        "ar": " رجاء أدخل رقم هاتفك مع كود الدولة على الشكل التالي :''+123 123 123 123' ",
+        "en": "Enter your phone number with country code,  using a format like: '+123 123 123 123'"
+    },
+    "phonenumber": {
+        "ar": " رجاء أدخل رقم هاتفك مع كود الدولة على الشكل التالي :''+123 123 123 123' لإكمال عملية الحجز",
+        "en": "Enter your phone number with country code,using a format like: '+123 123 123 123',to complete the appointment reservation"
+    },
+    "Show Phone Number {{phone}}": {
+        "ar": "رقم هاتفك هو {{phone}}",
+        "en": "Your phone number is {{phone}}"
+    },
+    "end Conversation": {
+        "ar": "لقد حجزت موعدك بنجاح، سأرسل لك تذكيراً عند اقتراب الموعد. شكراً للإستعانة بي :)",
+        "en": "I have successfully booked your appointment, I will remind you a little bit before the due time. Thank you, it's nice to talk to you :) "
+    },
+    "I am Sara {{name}}": {
+        "ar": " مرحبا {{name}}, أنا سارة أخصائية تنظيم المواعيد و المقابلات",
+        "en": "Hello {{name}},I am Sara, your special assistant for appointments management"
+    },
+    "how can I help you": {
+        "ar": "كيف يمكنني مساعدتك ؟",
+        "en": "How can I help you ?"
+    },
+    "Make an appointment": {
+        "ar": "احجز لي موعداً",
+        "en": "Book an appointment"
+    },
+    "Check your appointments": {
+        "ar": "اعرض مواعيدي",
+        "en": "List my appointments"
+    },
+    "which date?": {
+        "ar": "في أي تاريخ ؟",
+        "en": "Which date ?"
+    },
+    "which time?": {
+        "ar": "في أي وقت ؟",
+        "en": "Which time ?"
+    },
+    "chosenDate {{date}}": {
+        "ar": "لقد اخترت تاريخ {{date}} موعدا للحجز",
+        "en": "You selected {{date}} for your appointment"
+    },
+    "chosenTime {{time}}": {
+        "ar": "لقد اخترت الساعة {{time}} موعدا للحجز",
+        "en": "Understood. Your appointment will be at {{time}} "
+    },
+    "chosenDoc {{doct}}": {
+        "ar": "لقد اخترت {{doct}} لتحجز لديه",
+        "en": "Alright! Let's book the appointment with {{doct}}"
+    },
+    "something wrong": {
+        "ar": "عذرا , هذا الموعد تمّ حجزه مسبقاً",
+        "en": "Oops! Someone already booked at the same time."
+    },
+    "verify code": {
+        "ar": "لقد أرسلت كود التأكيد إلى رقم هاتفك الذي زوّدتني به , رجاء أدخله لإتمام عمليّة التسجيل .",
+        "en": "I sent a verification code to your phone number, click on 'Enter The code' then write it to complete your registration"
+    },
+    "if you didn't recieve the code:": {
+        "ar": "إن لم تستلم الكود :",
+        "en": "if you didn't recieve the code:"
+    },
+    "resend": {
+        "ar": "إعادة إرسال",
+        "en": "Send Again"
+    },
+    "enter the code": {
+        "ar": "أدخل الكود",
+        "en": "Enter The code"
+    },
+    "code recieved": {
+        "ar": "حسناً , أدخل الكود من فضلك",
+        "en": "Okay, enter the code please"
+    },
+    "The entered code is valid, now I will reserve your appointment": {
+        "ar": "ممتاز!  الكود الذي أدخلته صحيح ، سأبدأ الآن بتسجيل حجزك {{phone}}",
+        "en": "Superb! Your verification code is valid, now I will reserve your appointment {{phone}}"
+    },
+    "cancel button": {
+        "ar": "!توقفي سارة",
+        "en": "Stop Sara!"
+    },
+    "The process ended": {
+        "ar": "حاضر! ألغيت الحجز",
+        "en": "Alright! I stopped the reservation process."
+    },
+    "didn't understand the date": {
+        "ar": "عذراً , لم أفهم التاريخ الذي زوّدتني به ",
+        "en": "Sorry, I didn't understand the date. I am still learning."
+    },
+    "enter the date": {
+        "ar": "أدخل التاريخ",
+        "en": "Enter the date"
+    },
+    "didn't understand the time": {
+        "ar": "عذراً , لم أفهم الوقت الذي زوّدتني به ",
+        "en": "Sorry, I didn't understand the time"
+    },
+    "enter the time": {
+        "ar": "أدخل الوقت",
+        "en": "Enter the time"
+    },
+    "I see you prefer to talk in english": {
+        "ar": "أرى أنك تفضل اللغة العربية!",
+        "en": "I see you prefer to talk in English. I talk in English too!"
+    },
+    "The nearest free time of {{doc}} is {{freetime}}": {
+        "ar": "أقرب وقت يمكنك الحجز فيه عند {{doc}} هو '{{freetime}}'",
+        "en": "This is the nearest time for {{doc}} : '{{freetime}}'"
+    },
+    "Book": {
+        "ar": "احجز",
+        "en": "Book"
+    },
+    "enter another time": {
+        "ar": "أدخل وقتاً آخر",
+        "en": "Choose another time"
+    },
+    "The date you've chosen is already reserved, bot here's the nearest time to yours {{nearestTime}}": {
+        "ar": "التاريخ الذي أدخلته محجوز مسبقاً , لكن يمكنك الحجز في {{nearestTime}}",
+        "en": "The date you've chosen is already reserved, but you can book in {{nearestTime}}"
+    },
+    "The entered code is not valid": {
+        "ar": "الكود الذي أدخلته غير صحيح",
+        "en": "The verification code is not valid"
+    },
+    "Reschedule": {
+        "ar": "تعديل الحجز",
+        "en": "Reschedule"
+    },
+    "cancel appointment": {
+        "ar": "إلغاء الحجز",
+        "en": "Cancel appointment"
+    },
+    "appointment information": {
+        "ar": "هذه معلومات الحجز لديك",
+        "en": "This is your appointment information"
+    },
+    "You have an appointment with {{dr}} {{fromNow}}": {
+        "ar": "لديك حجز عند {{dr}} {{fromNow}}",
+        "en": "You have an appointment with {{dr}} {{fromNow}}"
+    },
+    "The appointment cancelation was failed": {
+        "ar": "أنا آسفة، هناك خلل ما ولم أتمكن من إلغاء الحجز",
+        "en": "Oops! Something went wrong and I couldn't cancel your appointment"
+    },
+    "Done": {
+        "ar": "تم! أنا جاهزة لمساعدنكم في أي وقت.",
+        "en": "Done! Let me know if you need any further assistance."
+    },
+    "You don't have appointment": {
+        "ar": "ليس لديك حجوزات",
+        "en": "You don't have pending appointments. "
+    },
+    "Call me": {
+        "ar": "إتصل بي",
+        "en": "Call me"
+    },
+    "my name is Sara {{name}}": {
+        "ar": " اسمي سارة,بوت مصمم من قبل NavyBits, لأكون مساعدتك الشخصية في إجراء الحجوزات لدى أي مكان تحبّ , سعيدة بلقائك {{name}} ;)",
+        "en": "My name is Sara,a bot that developed by NavyBits, to work as your personal assistant that will help you to book an appointment wherever you want, nice to meet you {{name}} ;) "
+    },
+    "you can say": {
+        "ar": "يمكنك أن تكتب 'السلام عليكم' , أو 'بدي احجز موعد', أو 'توقّفي سارة' ",
+        "en": "You can say 'hi' 'I want to make an appointment' 'list my appointments 'or 'stop Sara'"
+    },
+    "Confirm": {
+        "ar": "تأكيد الحجز",
+        "en": "Confirm appointment"
+    },
+    "You have been loged out": {
+        "ar": "تم تسجيل الخروج، وسأسجل لكم الدخول ثانية عند قيامكم بحجز جديد",
+        "en": "Done! You are now logged out, but don't worry you can just book a new appointment to login again"
+    },
+    "retime": {
+        "ar": "رجاء أدخل التاريخ على الهيئة (1 Sep 1111) ",
+        "en": "Please enter the date in (1 Sep 1111) format"
+    },
+    "never ask a lady about her age": {
+        "ar": "لا يستحسن أن تسأل سيّدة عن سنّها أبداً ;)",
+        "en": "Never ask a lady about her age ;)"
+    },
+    "you're welcome": {
+        "ar": " :) العفو , أهلا بك",
+        "en": "You're welcome :)"
+    },
+    "bye": {
+        "ar": "مع السلامة, سعدت بالحديث معك",
+        "en": "Goodbye,nice to talk to you"
+    },
+    "fine": {
+        "ar": "بخير الحمدلله , شكراً لسؤالك :)",
+        "en": "I'm doing well,thanks for asking :) "
+    },
+    "I need your phone number to definite your reservation": {
+        "ar": "أنا بحاجة لرقم هاتفك لتأكيد حجزك",
+        "en": "I need your phone number to definite your reservation"
+    },
+    "Enter phone number": {
+        "ar": "إدخال رقم الهاتف",
+        "en": "Enter phone number"
+    },
+    "Bypass this step": {
+        "ar": "تجاوز هذا الآن",
+        "en": "Bypass for now"
+    },
+    "Which language do you prefer?": {
+        "ar": "أنا بوت متعدد اللغات, يمكنك التحدث معي بـ:",
+        "en": "I'm a multilanguage bot you can talk to me in:"
+    },
+    "English": {
+        "ar": "الإنكليزية",
+        "en": "English"
+    },
+    "Arabic": {
+        "ar": "العربية",
+        "en": "Arabic"
+    }
+}

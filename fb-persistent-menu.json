@@ -1,0 +1,32 @@
+{
+  "setting_type": "call_to_actions",
+  "thread_state": "existing_thread",
+  "call_to_actions": [
+    {
+      "type": "postback",
+      "title": "Main",
+      "payload": "action?main"
+    },
+     {
+      "type": "postback",
+      "title": "help",
+      "payload": "action?help"
+    },
+    {
+      "type": "postback",
+      "title": "about",
+      "payload": "action?about"
+    },
+    {
+      "type": "postback",
+      "title": "Change Language",
+      "payload": "action?changeLanguage"
+    },
+    {
+      "type": "postback",
+      "title": "Logout",
+      "payload": "action?logout"
+    }
+   
+  ]
+}

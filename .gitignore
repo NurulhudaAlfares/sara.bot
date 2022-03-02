@@ -1,0 +1,15 @@
+!node_modules
+node_modules/*
+!node_modules/botbuilder-location
+node_modules/botbuilder-location/*
+!node_modules/botbuilder-location/lib
+node_modules/botbuilder-location/lib/*
+!node_modules/botbuilder-location/lib/locale
+node_modules/botbuilder-location/lib/locale/*
+!node_modules/botbuilder-location/lib/locale/en
+node_modules/botbuilder-location/lib/locale/en/*
+!node_modules/botbuilder-location/lib/locale/en/botbuilder-location.json
+
+tmp/
+public/
+.vscode/settings.json
